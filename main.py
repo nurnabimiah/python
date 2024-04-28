@@ -1,28 +1,13 @@
+row = int(input(f'Enter takes any number: '))
 
+# Print the upper half of the pattern
+for i in range(0, row):
+    for j in range(i):
+        print('*', end='')
+    print()
 
-n = int(input('How many numbers do you want to enter? '))
-numberList = []
-
-# Take input from the user
-for i in range(0, n):
-    takenList = int(input(f"Enter number {i + 1}: "))
-    numberList.append(takenList)
-
-print("Original list:", numberList)
-
-
-# Check if the list has more than one element
-if len(numberList) > 1:
-    # Swap the first and last elements
-    numberList[0], numberList[-1] = numberList[2], numberList[-1]
-
-# Print the modified list
-print("List after swapping first and last elements:", numberList)
-
-# Print the last element of the list
-print("Last element after swapping:", numberList[-1])
-
-
-
-
-
+# Print the lower half of the pattern
+for k in range(row, 0, -1):
+    for l in range(k):
+        print('*', end='')
+    print()
