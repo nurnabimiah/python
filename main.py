@@ -1,13 +1,8 @@
-row = int(input(f'Enter takes any number: '))
 
-# Print the upper half of the pattern
-for i in range(0, row):
-    for j in range(i):
-        print('*', end='')
-    print()
 
-# Print the lower half of the pattern
-for k in range(row, 0, -1):
-    for l in range(k):
-        print('*', end='')
-    print()
+input_word = input("Take a word which you want to the reverse: ")
+word_length = len(input_word)
+reverse_word = ""
+for index in range(word_length-1,-1,-1):
+    reverse_word = reverse_word + input_word[index]
+print("Reverse word : " + reverse_word)
