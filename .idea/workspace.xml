@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d5be995-4adf-43c1-96cc-359312c4fb8f" name="Changes" comment="start print  : w3 resources- Condition Statements and Loops 4 number problem solve">
+    <list default="true" id="0d5be995-4adf-43c1-96cc-359312c4fb8f" name="Changes" comment="start print  : w3 resources-conditional statement -(5) problem solved">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -23,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="conditional-statement-4-w3-resources" />
+        <entry key="$PROJECT_DIR$" value="5-reverse-word" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -37,15 +37,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;conditional-statement-4-w3-resources&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "9-fibonacci-series",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject" />
@@ -102,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714268648283</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="start print  : w3 resources-conditional statement -(5) problem solved">
+      <option name="closed" value="true" />
+      <created>1721232438167</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721232438167</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,6 +127,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="swapping : input from user and swapping list" />
     <MESSAGE value="start print  : w3 resources- Condition Statements and Loops 4 number problem solve" />
-    <option name="LAST_COMMIT_MESSAGE" value="start print  : w3 resources- Condition Statements and Loops 4 number problem solve" />
+    <MESSAGE value="start print  : w3 resources-conditional statement -(5) problem solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="start print  : w3 resources-conditional statement -(5) problem solved" />
   </component>
 </project>
