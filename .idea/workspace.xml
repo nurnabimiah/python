@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d5be995-4adf-43c1-96cc-359312c4fb8f" name="Changes" comment="start print  : w3 resources-conditional statement -(5) problem solved">
+    <list default="true" id="0d5be995-4adf-43c1-96cc-359312c4fb8f" name="Changes" comment="fibonacci series  : w3 resources-conditional statement -(9) problem solved">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -37,15 +37,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "9-fibonacci-series",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;9-fibonacci-series&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject" />
@@ -110,7 +110,23 @@
       <option name="project" value="LOCAL" />
       <updated>1721232438167</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="start print  : w3 resources-conditional statement -(9) problem solved">
+      <option name="closed" value="true" />
+      <created>1724647748642</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724647748642</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fibonacci series  : w3 resources-conditional statement -(9) problem solved">
+      <option name="closed" value="true" />
+      <created>1726372250408</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726372250408</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -128,6 +144,8 @@
     <MESSAGE value="swapping : input from user and swapping list" />
     <MESSAGE value="start print  : w3 resources- Condition Statements and Loops 4 number problem solve" />
     <MESSAGE value="start print  : w3 resources-conditional statement -(5) problem solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="start print  : w3 resources-conditional statement -(5) problem solved" />
+    <MESSAGE value="start print  : w3 resources-conditional statement -(9) problem solved" />
+    <MESSAGE value="fibonacci series  : w3 resources-conditional statement -(9) problem solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="fibonacci series  : w3 resources-conditional statement -(9) problem solved" />
   </component>
 </project>
